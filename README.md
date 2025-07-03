@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br>💬 Ask me about Python, Javascript, CSS<br>📫 How to reach me tusharsahu1977@gmail.com<br>
+🌱 I’m currently learning MERN Stack<br>💬 Ask me about Python, Javascript, CSS<br>
 
 
 ## 🌐 Socials:
